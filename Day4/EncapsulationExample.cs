@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 class Voter
 {
@@ -33,4 +33,4 @@ class MainProgram
         Console.WriteLine(v.GetAge());
 
     }
-}
+}*/

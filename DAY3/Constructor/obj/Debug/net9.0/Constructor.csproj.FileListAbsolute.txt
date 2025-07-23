@@ -12,3 +12,4 @@ C:\Users\Lenovo\OneDrive\Desktop\TRAINING\DAY3\Constructor\obj\Debug\net9.0\refi
 C:\Users\Lenovo\OneDrive\Desktop\TRAINING\DAY3\Constructor\obj\Debug\net9.0\Constructor.pdb
 C:\Users\Lenovo\OneDrive\Desktop\TRAINING\DAY3\Constructor\obj\Debug\net9.0\Constructor.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\TRAINING\DAY3\Constructor\obj\Debug\net9.0\ref\Constructor.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\DAY3\Constructor\obj\Debug\net9.0\Constructor.sourcelink.json
