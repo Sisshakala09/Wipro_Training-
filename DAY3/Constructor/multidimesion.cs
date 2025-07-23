@@ -1,4 +1,4 @@
-using System; // using is a keyword to import the namespaces (package)
+/*using System; // using is a keyword to import the namespaces (package)
 
 class Program
 {
@@ -32,4 +32,4 @@ class Program
     }
 
 
-}
+}*/
