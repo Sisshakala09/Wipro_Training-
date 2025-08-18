@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\bin\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.exe
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\bin\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\bin\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\bin\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\bin\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.pdb
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\refint\DEmo MathLibrary_Testing using NUnit.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.pdb
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\DEmo MathLibrary_Testing using NUnit.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\DEmo MathLibrary_Testing using NUnit\obj\Debug\net8.0\ref\DEmo MathLibrary_Testing using NUnit.dll

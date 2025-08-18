@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EEECBA-9255-41B9-ABD1-DAB2B040DE7F}|LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem.unittests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EEECBA-9255-41B9-ABD1-DAB2B040DE7F}|LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj|solutionrelative:librarymanagementsystem.unittests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EEECBA-9255-41B9-ABD1-DAB2B040DE7F}|LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem.unittests\\librarymanagementsystem.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76EEECBA-9255-41B9-ABD1-DAB2B040DE7F}|LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj|solutionrelative:librarymanagementsystem.unittests\\librarymanagementsystem.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01F29C6-6F65-4A3B-A0F2-79A0631CEAD9}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01F29C6-6F65-4A3B-A0F2-79A0631CEAD9}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|solutionrelative:librarymanagementsystem.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01F29C6-6F65-4A3B-A0F2-79A0631CEAD9}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem.tests\\librarymanagementsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B01F29C6-6F65-4A3B-A0F2-79A0631CEAD9}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|solutionrelative:librarymanagementsystem.tests\\librarymanagementsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8F74-2B12-4351-8AEB-E0AB208154B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryManagementSystem.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.UnitTests\\LibraryManagementSystem.UnitTests.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T16:42:40.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegrationTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.UnitTests\\IntegrationTest1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.UnitTests\\IntegrationTest1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.UnitTests\\IntegrationTest1.cs",
+              "RelativeToolTip": "LibraryManagementSystem.UnitTests\\IntegrationTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:35:22.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:00:43.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:01:29.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T15:09:34.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryManagementSystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T15:07:34.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Borrower.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Borrower.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:01:10.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Tests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:58:43.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:56:02.965Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

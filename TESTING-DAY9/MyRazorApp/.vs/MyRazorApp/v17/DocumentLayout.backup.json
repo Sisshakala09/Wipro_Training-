@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\data\\ecomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\data\\ecomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\razorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\razorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\mvcexample\\migrations\\20250818113053_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494A7A7-3BF6-4146-A4D8-B398C9ED0559}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\migrations\\20250818113053_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\migrations\\20250818112127_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\migrations\\20250818112127_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\myrazorapp\\razorapp\\migrations\\20250818100814_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64901460-15B4-4988-B644-C9A2EA6F1C7F}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\migrations\\20250818100814_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:49:42.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:49:42.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:49:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:49:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:49:36.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Details.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:49:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:49:35.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:49:35.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:49:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:49:33.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:21:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVCExample\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:53:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Models\\Category.cs",
+              "RelativeToolTip": "RazorApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:44:36.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EcomContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Data\\EcomContext.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Data\\EcomContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Data\\EcomContext.cs",
+              "RelativeToolTip": "RazorApp\\Data\\EcomContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:47:58.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Models\\Product.cs",
+              "RelativeToolTip": "RazorApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:44:45.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250818113053_second.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Migrations\\20250818113053_second.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Migrations\\20250818113053_second.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Migrations\\20250818113053_second.cs",
+              "RelativeToolTip": "MVCExample\\Migrations\\20250818113053_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:30:54.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:24:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:24:32.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:23:48.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:56:43.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250818112127_second.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Migrations\\20250818112127_second.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Migrations\\20250818112127_second.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Migrations\\20250818112127_second.cs",
+              "RelativeToolTip": "RazorApp\\Migrations\\20250818112127_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:21:28.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Program.cs",
+              "RelativeToolTip": "RazorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:46:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVCExample\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:30:54.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Models\\Category.cs",
+              "RelativeToolTip": "MVCExample\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:40:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RazorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\RazorApp.csproj",
+              "RelativeDocumentMoniker": "RazorApp\\RazorApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\RazorApp.csproj",
+              "RelativeToolTip": "RazorApp\\RazorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T09:48:40.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250818100814_first.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Migrations\\20250818100814_first.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Migrations\\20250818100814_first.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\Migrations\\20250818100814_first.cs",
+              "RelativeToolTip": "RazorApp\\Migrations\\20250818100814_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:08:14.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\RazorApp\\appsettings.json",
+              "RelativeToolTip": "RazorApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T09:45:49.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Models\\Product.cs",
+              "RelativeToolTip": "MVCExample\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:39:39.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Program.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\Program.cs",
+              "RelativeToolTip": "MVCExample\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:52:00.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\MyRazorApp\\MVCExample\\appsettings.json",
+              "RelativeToolTip": "MVCExample\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T08:51:22.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

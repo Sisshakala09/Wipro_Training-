@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FC390-BCB5-433E-9D1A-8D23287240DC}|CalculatorLibraryTests\\CalculatorLibraryTests.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\calculatorlibrary\\calculatorlibrarytests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8FC390-BCB5-433E-9D1A-8D23287240DC}|CalculatorLibraryTests\\CalculatorLibraryTests.csproj|solutionrelative:calculatorlibrarytests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC9021-4361-4747-9227-C5654A8B81F8}|CalculatorLibrary\\CalculatorLibrary.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\calculatorlibrary\\calculatorlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC9021-4361-4747-9227-C5654A8B81F8}|CalculatorLibrary\\CalculatorLibrary.csproj|solutionrelative:calculatorlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FC390-BCB5-433E-9D1A-8D23287240DC}|CalculatorLibraryTests\\CalculatorLibraryTests.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\calculatorlibrary\\calculatorlibrarytests\\calculatorlibrarytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F8FC390-BCB5-433E-9D1A-8D23287240DC}|CalculatorLibraryTests\\CalculatorLibraryTests.csproj|solutionrelative:calculatorlibrarytests\\calculatorlibrarytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC9021-4361-4747-9227-C5654A8B81F8}|CalculatorLibrary\\CalculatorLibrary.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\calculatorlibrary\\calculatorlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC9021-4361-4747-9227-C5654A8B81F8}|CalculatorLibrary\\CalculatorLibrary.csproj|solutionrelative:calculatorlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorLibraryTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibraryTests\\CalculatorLibraryTests.csproj",
+              "RelativeDocumentMoniker": "CalculatorLibraryTests\\CalculatorLibraryTests.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibraryTests\\CalculatorLibraryTests.csproj",
+              "RelativeToolTip": "CalculatorLibraryTests\\CalculatorLibraryTests.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T13:29:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibraryTests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorLibraryTests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibraryTests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorLibraryTests\\CalculatorTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:11:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLibrary\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibrary\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLibrary\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:44:41.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\CalculatorLibrary\\CalculatorLibrary\\Program.cs",
+              "RelativeToolTip": "CalculatorLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:43:21.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

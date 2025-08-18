@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\detailedreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\detailedreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\isavable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\isavable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\annualreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\annualreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\monthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\monthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|c:\\users\\lenovo\\onedrive\\desktop\\training\\testing-day9\\soliddesignassignment\\soliddesignassignment\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEAF2C-A193-4B28-A7CE-CDA166B0B7E9}|SolidDesignAssignment\\SolidDesignAssignment.csproj|solutionrelative:soliddesignassignment\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\Logger.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\Logger.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\Logger.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:37:20.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportService.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportService.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:36:39.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\IReportService.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\IReportService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\IReportService.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:36:06.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailedReport.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\DetailedReport.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\DetailedReport.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\DetailedReport.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\DetailedReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:35:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISavable.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ISavable.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\ISavable.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ISavable.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\ISavable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:35:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\IPrintable.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\IPrintable.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:34:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\Program.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:26:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnnualReport.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\AnnualReport.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\AnnualReport.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\AnnualReport.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\AnnualReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:33:48.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonthlyReport.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\MonthlyReport.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\MonthlyReport.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\MonthlyReport.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\MonthlyReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:33:16.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\Report.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\Report.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\Report.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:32:44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExcelFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ExcelFormatter.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\ExcelFormatter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ExcelFormatter.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\ExcelFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:32:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PdfFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\PdfFormatter.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\PdfFormatter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\PdfFormatter.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\PdfFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:31:28.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\IReportFormatter.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:30:51.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportManager.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportManager.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\ReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:29:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\ReportSaver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportSaver.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:29:05.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SolidDesignAssignment\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\TRAINING\\TESTING-DAY9\\SolidDesignAssignment\\SolidDesignAssignment\\ReportGenerator.cs",
+              "RelativeToolTip": "SolidDesignAssignment\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:27:29.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

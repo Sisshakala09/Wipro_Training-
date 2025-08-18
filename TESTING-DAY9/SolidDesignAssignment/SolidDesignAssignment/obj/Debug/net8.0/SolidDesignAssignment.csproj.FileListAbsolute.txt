@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\bin\Debug\net8.0\SolidDesignAssignment.exe
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\bin\Debug\net8.0\SolidDesignAssignment.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\bin\Debug\net8.0\SolidDesignAssignment.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\bin\Debug\net8.0\SolidDesignAssignment.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\bin\Debug\net8.0\SolidDesignAssignment.pdb
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\refint\SolidDesignAssignment.dll
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.pdb
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\SolidDesignAssignment.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\SolidDesignAssignment\SolidDesignAssignment\obj\Debug\net8.0\ref\SolidDesignAssignment.dll

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\MathLibraryTests\obj\Debug\net8.0\MathLibraryTests.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\MathLibraryTests\obj\Debug\net8.0\MathLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\MathLibraryTests\obj\Debug\net8.0\MathLibraryTests.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\MathLibraryTests\obj\Debug\net8.0\MathLibraryTests.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\MathLibraryTests\obj\Debug\net8.0\MathLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\TRAINING\TESTING-DAY9\DEmo MathLibrary_Testing using NUnit\MathLibraryTests\obj\Debug\net8.0\MathLibraryTests.sourcelink.json
